@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    justify-content: center; /* Horizontally center */
+    align-items: center;     /* Vertically center */
+    min-height: 100vh;      /* Ensure body takes up full viewport height */
+    /* //margin: 50px; Remove default body margin */
+}
+
+.container {
+    
+    padding: 20px;
+    border-radius: 8px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    background-color: #f8f9fa; 
+    margin: 20px;
+}
+
+
+table {
+    width: 100%; 
+}
+td {
+    padding: 8px; 
+}
+button{
+    border-radius: 30%;
+}
